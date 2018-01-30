@@ -3,3 +3,5 @@ Beastman and Skeletor are not part of this exercise
 
 
 I'm making some changes
+
+#Changes by Royal to Alex's repository
